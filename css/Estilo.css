@@ -1,0 +1,310 @@
+*{
+
+    font-family: 'Poppins', sans-serif;
+    font-style: inherit;
+    font-weight: bold;
+
+}
+
+.Fondo{
+
+    background-color: red;
+}
+
+
+.NombrePagina{
+    margin-right: 50px;
+}
+
+
+/* BODY */
+
+/* CARDS */
+
+.hola{
+
+    width: 100%;
+    height: 78%;
+
+}
+
+
+.Cards-Titulo{
+    text-align: start;
+    padding: 50px;
+    padding-top: 100px;
+    color: whitesmoke;
+
+    width: 100%;
+
+}
+
+.Cards-Titulo h1{
+    font-size: 50px;
+
+}
+
+.Cards-TextMain{
+    text-align: start;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 50px;
+    padding-top: 20px;
+    color: whitesmoke;
+
+    font-size: 20px;
+
+    width: 100%;
+}
+
+.Cards-Call-To-Action{
+    width: 10%;
+    justify-content: end;
+    text-align: end;
+    padding-left: 80%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+
+    font-family: 'Lato', sans-serif;
+}
+
+
+.Cards-Fondo{
+
+    height: 100%;
+    background: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+
+}
+
+
+.Cards-general{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 50px;
+
+}
+
+
+.Card{
+
+    margin: 30px;
+    text-align: center;
+
+    opacity:100%;
+    border: 1px solid black;
+    padding: 0;
+
+    background-color: white;
+}
+
+
+.card-titulo{
+    color: red;
+}
+
+.card-texto{
+
+margin-bottom: 20px;
+}
+
+.card-boton {
+
+    position: relative;
+
+    width: 100%;
+
+
+}
+
+
+/* FORMS */
+.Subscripcion-Fondo{
+
+ padding-bottom: 60px;
+
+
+}
+
+
+.Subscripcion-Contenedor{
+    padding: 30px;
+
+}
+
+
+.Subscripcion-Contenedor-Texto{
+    width: 100%;
+}
+
+
+
+
+.Subscripcion-general{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+
+
+.Subscripcion-Forms{
+
+    width: 50%;
+}
+
+.Subscripcion-Forms-Grupo{
+
+    width:100%;
+    padding: 30px;
+}
+
+.Subscripcion-Forms-Grupo-Item{
+    margin-bottom: 20px;
+
+}
+
+.Subscripcion-Mapa{
+
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+}
+
+
+.mapa{
+    width: 100%;
+    height: 100%;
+}
+
+
+.Subscripcion-Boton{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20%;
+
+    font-family: 'Lato', sans-serif;
+}
+
+/* MAS INFO */
+
+.MasInfo-Fondo{
+
+    background-color: black;
+
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.MasInfo-Titulo{
+
+    color: whitesmoke;
+
+    padding: 20px;
+
+}
+
+.MasInfo-Texto{
+    color: whitesmoke;
+
+    padding: 20px;
+
+}
+
+.MasInfo-Contenedor{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.MasInfo-Logo{
+
+    display: flex;
+
+    width: 50%;
+    padding: 30px;
+    padding-bottom: 80px;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    right: 50%;
+
+}
+
+.Mali-img{
+
+    width: 100%;
+
+}
+
+.Mali-link{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.MasInfo-D{
+    color: whitesmoke;
+    width: 50%;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+/* FOOTER */
+
+.Footer-fondo{
+    background-color: whitesmoke;
+}
+
+li{
+    margin:10px;
+    list-style: none;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+h5{
+    color: black;
+    font-weight: bold;
+}
+
+.footer_img1{
+    width: 35px;
+    margin-right: 20px;
+}
+
+.footer_img2{
+    width: 35px;
+    margin-right: 20px;
+}
+
+.Footer-fondo-Copy{
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+.linkk{
+    color: whitesmoke;
+}
